@@ -3,14 +3,23 @@
 ***IMPORTANT the file taskman.c has been removed from the repository, only authorized users will be able to see it. (taskman.c is where the bulk of the work is done) 
 
 Some of the core features of this project:
+
 Accept a single line of instruction from the user and perform the instruction.
+
   Creating, deleting or listing tasks from user input.
+  
   Reading from or writing to a file.
+  
   Loading and running a user-specified program.
+  
 The system supports any arbitrary number of simultaneous running processes.
+
 Is able to both wait for a processes to finish, or let them run in the background.
+
   Perform basic management of tasks, whether they are in standby, running, or complete;
+  
   Use file redirects and pipes to read input or send output of a process to a file.
+  
   Use signals to suspend/resume or terminate running processes, and track child activity. 
 
 
