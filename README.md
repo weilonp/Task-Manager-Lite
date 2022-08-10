@@ -2,6 +2,8 @@
 
 ***IMPORTANT the file taskman.c has been removed from the repository, only authorized users will be able to see it. (taskman.c is where the bulk of the work is done) 
 
+Key concepts practiced in this project: processes, signals, and Unix-IO
+
 Some of the core features of this project:
 
 - Accept a single line of instruction from the user and perform the instruction.
