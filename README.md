@@ -4,23 +4,23 @@
 
 Some of the core features of this project:
 
-Accept a single line of instruction from the user and perform the instruction.
+- Accept a single line of instruction from the user and perform the instruction.
 
-  Creating, deleting or listing tasks from user input.
+- Creating, deleting or listing tasks from user input.
   
-  Reading from or writing to a file.
+- Reading from or writing to a file.
   
-  Loading and running a user-specified program.
+- Loading and running a user-specified program.
   
-The system supports any arbitrary number of simultaneous running processes.
+- The system supports any arbitrary number of simultaneous running processes.
 
-Is able to both wait for a processes to finish, or let them run in the background.
+- Is able to both wait for a processes to finish, or let them run in the background.
 
-  Perform basic management of tasks, whether they are in standby, running, or complete;
+- Perform basic management of tasks, whether they are in standby, running, or complete;
   
-  Use file redirects and pipes to read input or send output of a process to a file.
+- Use file redirects and pipes to read input or send output of a process to a file.
   
-  Use signals to suspend/resume or terminate running processes, and track child activity. 
+- Use signals to suspend/resume or terminate running processes, and track child activity. 
 
 
 To run the project, use 'make' and then './taskman' 
